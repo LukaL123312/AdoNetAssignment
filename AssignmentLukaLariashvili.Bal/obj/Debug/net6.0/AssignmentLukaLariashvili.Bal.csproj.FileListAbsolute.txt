@@ -1,0 +1,15 @@
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\bin\Debug\net6.0\AssignmentLukaLariashvili.Bal.deps.json
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\bin\Debug\net6.0\AssignmentLukaLariashvili.Bal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\bin\Debug\net6.0\ref\AssignmentLukaLariashvili.Bal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\bin\Debug\net6.0\AssignmentLukaLariashvili.Bal.pdb
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\bin\Debug\net6.0\AssignmentLukaLariashvili.Dal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\bin\Debug\net6.0\AssignmentLukaLariashvili.Dal.pdb
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.csproj.AssemblyReference.cache
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.AssemblyInfoInputs.cache
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.AssemblyInfo.cs
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.csproj.CoreCompileInputs.cache
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.csproj.CopyComplete
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\ref\AssignmentLukaLariashvili.Bal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Bal\obj\Debug\net6.0\AssignmentLukaLariashvili.Bal.pdb

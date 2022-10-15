@@ -1,0 +1,12 @@
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\bin\Debug\net6.0\AssignmentLukaLariashvili.Dal.deps.json
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\bin\Debug\net6.0\AssignmentLukaLariashvili.Dal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\bin\Debug\net6.0\ref\AssignmentLukaLariashvili.Dal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\bin\Debug\net6.0\AssignmentLukaLariashvili.Dal.pdb
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.csproj.AssemblyReference.cache
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.AssemblyInfoInputs.cache
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.AssemblyInfo.cs
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.csproj.CoreCompileInputs.cache
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\ref\AssignmentLukaLariashvili.Dal.dll
+C:\Users\luka.lariashvili\source\demos\AssignmentLukaLariashvili\AssignmentLukaLariashvili.Dal\obj\Debug\net6.0\AssignmentLukaLariashvili.Dal.pdb
